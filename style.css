@@ -1,0 +1,164 @@
+
+
+
+
+.pairent{
+display: inline-block;
+margin: 4px;
+ 
+  
+ }
+.text{
+    color: blue;
+}
+ 
+
+.div1{
+
+    width: 460px;
+    height: 600px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.342)
+  
+   
+ 
+   
+ 
+}
+.div1 img{
+    width: 400px;
+    height: 400px;
+  
+   
+}
+
+
+
+
+
+.div2{
+
+    width: 460px;
+    height: 600px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.342)
+   
+ 
+}
+
+.div2 img{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
+
+.div3{
+
+    width: 460px;
+    height: 600px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.342)
+ 
+   
+ 
+}
+.div3 img{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
+
+.div4{
+
+    width: 460px;
+    height: 600px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.342)
+  
+ 
+   
+ 
+}
+.div4 img{
+    width: 400px;
+    height: 400px;
+}
+
+
+.div5{
+
+    width: 460px;
+    height: 600px;
+   text-align: center;
+   display: inline-block;
+   background-color: rgba(128, 128, 128, 0.342)
+    
+
+  
+}
+
+
+.div5 img{
+    width: 400px;
+    height: 400px;
+
+}
+
+.pairent5{
+    text-align: center;
+    padding: 100px;
+ 
+}
+
+
+
+
+
+
+.pairent6-7{
+
+    text-align: center;
+    padding: 30px;
+  
+}
+
+
+.div6{
+    width: 460px;
+    height: 600px;;
+    margin: 100px;
+   text-align: center;
+   display: inline-block;
+   background-color: rgba(128, 128, 128, 0.342)
+ 
+}
+
+
+
+
+.div6 img{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+.div7{
+    width: 460px;
+    height: 600px;
+   text-align: center;
+   display: inline-block;
+   background-color: rgba(128, 128, 128, 0.342)
+  
+}
+
+.div7 img{
+    width: 400px;
+    height: 400px;
+}
